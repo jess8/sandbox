@@ -5,4 +5,4 @@ for testing,
 
 ###github
 
-- merging
+- merging, ie pulling first
