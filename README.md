@@ -7,3 +7,4 @@ for testing,
 
 - merging, ie pulling first
 - second bullet (written first)
+- now third (was second) bullet (but written third chronologically) and merged
