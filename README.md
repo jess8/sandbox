@@ -1,7 +1,7 @@
 sandbox
 =======
 
-for testing,
+for testing, and resolving conflicts
 
 ###github
 
